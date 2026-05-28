@@ -1,8 +1,8 @@
-# BudgetBites 🍎
+# BudgetBites 
 
 BudgetBites is a calm, research-driven budgeting and recipe application specifically designed for the student lifestyle. Built with a focus on professional aesthetics and cognitive ease, the app bridges the gap between financial management and nutritional health.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project locally, follow these steps:
 
@@ -52,7 +52,7 @@ The application features six primary routed views, guarded by a bespoke authenti
 
 ---
 
-## 🎨 Design System & Philosophy
+##  Design System & Philosophy
 
 BudgetBites follows a "Quiet Design" philosophy, moving away from high-stimulus gamification toward a research-backed, focused experience.
 
@@ -65,7 +65,7 @@ BudgetBites follows a "Quiet Design" philosophy, moving away from high-stimulus 
 
 ---
 
-## 📦 Key Libraries & Plugins
+##  Key Libraries & Plugins
 - **Recharts:** Used for financial data visualization and budget tracking.
 - **Sonner:** Handles non-intrusive toast notifications for user feedback.
 - **Radix UI:** Primitive components (Dialogs, Tabs, Tooltips) for accessibility compliance.
@@ -74,7 +74,7 @@ BudgetBites follows a "Quiet Design" philosophy, moving away from high-stimulus 
 
 ---
 
-## 👨‍🏫 Assessor Information
+## Assessor Information
 This project represents a full-stack frontend implementation (Iteration 2). It demonstrates proficiency in:
 - **Responsive Layouts:** Full mobile and desktop compatibility.
 - **Complex State:** Managing nested UI states, user sessions, and "Quiet Mode" toggles.
